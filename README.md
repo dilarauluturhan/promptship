@@ -1,1 +1,1 @@
-![Ekran görüntüsü 2023-12-26 235853](https://github.com/dilarauluturhan/promptship/assets/120499369/3b0a5ca2-f106-4f3f-a133-8a37c282b20b)
+![](https://github.com/dilarauluturhan/promptship/assets/120499369/512f394c-a6e6-4af4-850e-a58c6f6c2d6f)
