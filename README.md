@@ -1,1 +1,1 @@
-![](https://github.com/dilarauluturhan/promptship/assets/120499369/512f394c-a6e6-4af4-850e-a58c6f6c2d6f)
+![](https://github.com/dilarauluturhan/wave-animation/assets/120499369/fa37de54-c2a2-425f-8b3b-06d507f4b177)

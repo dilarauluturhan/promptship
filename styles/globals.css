@@ -67,5 +67,13 @@
 }
 
 .outline_btn {
-  @apply rounded-xl border border-green-900 bg-transparent py-1.5 px-5 text-black transition-all hover:bg-green-900 hover:text-white text-center text-sm font-inter flex items-center justify-center;
+  @apply rounded-xl shadow-md border border-green-900 bg-transparent py-1.5 px-5 text-black transition-all hover:bg-green-900 hover:text-white text-center text-sm font-inter flex items-center justify-center;
+}
+
+.dropdown {
+  @apply absolute right-0 top-full mt-3 w-full p-5 rounded-xl bg-green-50 min-w-[210px] flex flex-col gap-2 justify-end items-end;
+}
+
+.dropdown_link {
+  @apply text-sm font-inter text-gray-800 hover:text-green-800 font-medium;
 }
