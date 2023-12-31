@@ -4,7 +4,7 @@ import Navbar from "@components/Navbar";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "PromptShip",
+  title: "Promptship",
   description: "Discover & Share AI Prompts",
 };
 

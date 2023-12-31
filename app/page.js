@@ -8,7 +8,7 @@ const Home = () => {
         <span className="green_gradient">AI-Powered Prompts</span>
       </h1>
       <p className="mt-5 text-lg text-gray-600 sm:text-xl max-w-2xl text-center">
-        PromptShip is an AI prompting tool for the modern world to discover,
+        Promptship is an AI prompting tool for the modern world to discover,
         create, and share creative prompts.
       </p>
 

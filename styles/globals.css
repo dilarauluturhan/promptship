@@ -50,12 +50,20 @@
   @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
 }
 
+.flex-start {
+  @apply flex justify-start items-start;
+}
+
 .flex-center {
   @apply flex justify-center items-center;
 }
 
 .flex-between {
   @apply flex justify-between items-center;
+}
+
+.flex-end {
+  @apply flex justify-end items-center;
 }
 
 .green_gradient {
@@ -76,4 +84,16 @@
 
 .dropdown_link {
   @apply text-sm font-inter text-gray-800 hover:text-green-800 font-medium;
+}
+
+.glassmorphism {
+  @apply rounded-lg border border-gray-200 bg-white/20 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.2)] backdrop-blur p-5;
+}
+
+.form_textarea {
+  @apply w-full flex rounded-lg h-[200px] mt-2 p-3 text-sm text-gray-500 outline-0;
+}
+
+.form_input {
+  @apply w-full flex rounded-lg mt-2 p-3 text-sm text-gray-500 outline-0;
 }

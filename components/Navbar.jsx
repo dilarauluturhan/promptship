@@ -27,7 +27,7 @@ const Navbar = () => {
       <Link href="/" className="flex-center gap-x-2 text-primary-green">
         <VenetianMask size={54} strokeWidth={1.2} />
         <div className="text-4xl font-comfortaa font-bold max-sm:hidden tracking-wide">
-          PromptShip
+          Promptship
         </div>
       </Link>
 
